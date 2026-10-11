@@ -1,9 +1,7 @@
 # Creador de Personaje — Guardianes del Talamanca
 
-## Autoras
-- Suset
-- Melissa
-- Ariana
+## Autora
+Susety Melissa Rodríguez Salazar
 
 ## Universo
 Mundo de fantasía inspirado en la naturaleza de Costa Rica, donde guardianes protegen las tierras sagradas.
