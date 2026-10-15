@@ -24,4 +24,4 @@ Mundo de fantasía inspirado en la naturaleza de Costa Rica, donde guardianes pr
 
 ## Uso de Inteligencia Artificial
 - Se usó para consultar dudas de sintaxis y entender mejor conceptos de programación.
-- Todo el código fue comprendido y escrito por nosotras.
+- Todo el código fue comprendido y escrito por mi.
